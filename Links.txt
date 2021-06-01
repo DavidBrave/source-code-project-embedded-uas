@@ -1,0 +1,6 @@
+David Brave - 218116715
+
+Source Code : https://github.com/DavidBrave/embedded-arduino-text-to-speech-source-code
+Tinkercad Link : https://www.tinkercad.com/things/9Y25GIJdO2p
+Projecthub : https://create.arduino.cc/projecthub/davidbrave244/project-uas-embeded-fbd786
+Visual Studio Controller : https://github.com/DavidBrave/TextToSpeech-C-Sharp-Arduino-Controller
